@@ -40,10 +40,10 @@ The model was built using Logistic Regression. The model predicted the results b
 * Machine Learning Model 2(resampled data):
   balanced_accuracy_score:0.9933850227303349
   
-  ![Screen Shot 2023-03-26 at 1 48 30 PM](https://user-images.githubusercontent.com/113545468/227794392-da7662aa-d085-4116-84e6-310f9771ca91.png)
+![Screen Shot 2023-03-26 at 1 53 54 PM](https://user-images.githubusercontent.com/113545468/227794661-2577a37e-34de-4c42-a73f-7f47f6363d68.png)
   
   
-  ![Screen Shot 2023-03-26 at 1 48 37 PM](https://user-images.githubusercontent.com/113545468/227794403-da00189e-403e-46f2-b20a-d91256cc520f.png)
+![Screen Shot 2023-03-26 at 1 54 01 PM](https://user-images.githubusercontent.com/113545468/227794674-6136955a-26fb-4202-aadd-471a7af8534c.png)
 
  
 
