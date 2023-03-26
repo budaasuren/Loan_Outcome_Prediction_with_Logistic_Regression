@@ -32,6 +32,7 @@ The model was built using Logistic Regression. The model predicted the results b
   
   ![Screen Shot 2023-03-26 at 1 50 04 PM](https://user-images.githubusercontent.com/113545468/227794451-8e4642bd-57b1-4809-ba92-08d6bfcadcff.png)
   
+  
   ![Screen Shot 2023-03-26 at 1 50 08 PM](https://user-images.githubusercontent.com/113545468/227794455-1125203f-3ba0-4a15-9a62-09297dfe1c7e.png)
   
   
@@ -40,6 +41,7 @@ The model was built using Logistic Regression. The model predicted the results b
   balanced_accuracy_score:0.9933850227303349
   
   ![Screen Shot 2023-03-26 at 1 48 30 PM](https://user-images.githubusercontent.com/113545468/227794392-da7662aa-d085-4116-84e6-310f9771ca91.png)
+  
   
   ![Screen Shot 2023-03-26 at 1 48 37 PM](https://user-images.githubusercontent.com/113545468/227794403-da00189e-403e-46f2-b20a-d91256cc520f.png)
 
