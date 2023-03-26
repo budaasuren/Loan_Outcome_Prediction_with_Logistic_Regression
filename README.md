@@ -6,8 +6,8 @@
 The purpose of this analysis is to predict accurately both the risky loans and healthy loans.
 
 The model uses the following features to predict the loan outcome.
-**loan_size
-**interest_rate
+* loan_size
+* interest_rate
 **borrower_income
 **debt_to_income
 **num_of_accounts
