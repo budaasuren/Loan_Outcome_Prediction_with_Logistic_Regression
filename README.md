@@ -50,6 +50,6 @@ The model was built using Logistic Regression. The model predicted the results b
 ## Summary
 
 
-Based on the both results, I consider the both model perform satisfactory and can move to the production since the both accuracy scores are 0.99 which is extremely high. However, from the business stand point, every false positives (FP) will be lost opportunity for the bank and every false negative (FN) will be loss for the bank as the loan would not get paid back. Therefore, it is equally important to predict both `1`'s and `0`'s. The first model have 7 more FPs and 6 less FNs than the second model. Overall, it cancels each other. Therefore, I recommend the both models and they perform very similar.
+Based on the both results, I consider the both model perform satisfactory and can move to the production since the both accuracy scores are 0.99 which is extremely high. However, from the business stand point, every false positives (FP) will be lost opportunity for the bank and every false negative (FN) will be loss for the bank as the loan would not get paid back. Therefore, it is equally important to predict both `1`'s and `0`'s. The first model have 7 more FPs and 6 less FNs than the second model. Overall, it cancels each other. Therefore, I recommend both models as they perform very similar.
 
 
