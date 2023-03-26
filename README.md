@@ -6,22 +6,22 @@
 The purpose of this analysis is to predict accurately both the risky loans and healthy loans.
 
 The model uses the following features to predict the loan outcome.
--loan_size
--interest_rate
--borrower_income
--debt_to_income
--num_of_accounts
--derogatory_marks
--total_debt
+*loan_size
+*interest_rate
+*borrower_income
+*debt_to_income
+*num_of_accounts
+*derogatory_marks
+*total_debt
 
 The data hold 75036 healthy loans and 2500 risky loans data. This is considered to be imbalanced data.
 
 The workflow of the analysis as follows:
 
--Splited the data using train_test_split and defined the random state.
--Scaled the features for test and training data using Standars Scaler as the features have wide range of numerical values.
--Built the logistic regression model,fitted the data, and predicted the loan outcome.
--Measured the model performance using balanced accuracy score, confusion matrix and classification_report.
+*Splited the data using train_test_split and defined the random state.
+*Scaled the features for test and training data using Standars Scaler as the features have wide range of numerical values.
+*Built the logistic regression model,fitted the data, and predicted the loan outcome.
+*Measured the model performance using balanced accuracy score, confusion matrix and classification_report.
 
 The model was built using Logistic Regression. The model predicted the results both on original data and resampled the data (using the resampling algorith and created the same number of results for healthy and risky loans (56271 each).
 
