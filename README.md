@@ -6,13 +6,13 @@
 The purpose of this analysis is to predict accurately both the risky loans and healthy loans.
 
 The model uses the following features to predict the loan outcome.
-*loan_size
-*interest_rate
-*borrower_income
-*debt_to_income
-*num_of_accounts
-*derogatory_marks
-*total_debt
+**loan_size
+**interest_rate
+**borrower_income
+**debt_to_income
+**num_of_accounts
+**derogatory_marks
+**total_debt
 
 The data hold 75036 healthy loans and 2500 risky loans data. This is considered to be imbalanced data.
 
